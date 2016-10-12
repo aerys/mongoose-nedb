@@ -1,16 +1,15 @@
-# nedb-mongoose-driver
+# mongoose-nedb
 
 A Mongoose driver for NeDB.
-
 
 ## Installation
 
 ```
-npm install nedb-mongoose-driver --save
+npm install mongoose-nedb --save
 ```
 
 ## Usage
 
 ```javascript
-require('nedb-mongoose-driver').install();
+require('mongoose-nedb').install();
 ```

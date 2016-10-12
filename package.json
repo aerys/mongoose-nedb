@@ -1,5 +1,5 @@
 {
-  "name": "nedb-mongoose-driver",
+  "name": "mongoose-nedb",
   "version": "0.0.1",
   "description": "A Mongoose driver for NeDB.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/warrenseine/nedb-mongoose-driver.git"
+    "url": "git+https://github.com/warrenseine/mongoose-nedb.git"
   },
   "keywords": [
     "nedb",
@@ -17,9 +17,9 @@
   "author": "Warren Seine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/warrenseine/nedb-mongoose-driver/issues"
+    "url": "https://github.com/warrenseine/mongoose-nedb/issues"
   },
-  "homepage": "https://github.com/warrenseine/nedb-mongoose-driver#readme",
+  "homepage": "https://github.com/warrenseine/mongoose-nedb#readme",
   "peerDependencies": {
     "nedb": "^1.8.0",
     "mongoose": "^4.6.3",
